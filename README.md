@@ -1,1 +1,1 @@
-# vscode-chat-agent
+# VS Code Chat Agent
